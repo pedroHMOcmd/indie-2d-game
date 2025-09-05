@@ -1,15 +1,8 @@
-# OS
-.DS_Store
-Thumbs.db
-
-# Godot 4
-.godot/
 .import/
-# Godot caches / temp
-*.tmp
+.mono/
+.godot/
+*.escn
+*.gltf.md5
+*.res
 *.translation
-
-# Build / export artifacts (we’ll generate later)
-bin/
-build/
-export/
+export_presets.cfg
